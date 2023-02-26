@@ -1,4 +1,4 @@
-Janna Wohl's visual argument project!
+A World of Likes and Comments
 
 SOURCES:
 
